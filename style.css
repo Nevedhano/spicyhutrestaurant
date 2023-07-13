@@ -12,7 +12,7 @@ body,h2{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .landing{
-    background-image: url("./pexels-pixabay-70842.jpg");
+    background-image: url("pexels-pixabay-70842.jpg");
    background-size: cover;
    background-position: center;
    height:100vh ;
